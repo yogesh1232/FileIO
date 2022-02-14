@@ -1,0 +1,15 @@
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\bin\Debug\net6.0\SerialisationDemo.exe
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\bin\Debug\net6.0\SerialisationDemo.deps.json
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\bin\Debug\net6.0\SerialisationDemo.runtimeconfig.json
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\bin\Debug\net6.0\SerialisationDemo.dll
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\bin\Debug\net6.0\ref\SerialisationDemo.dll
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\bin\Debug\net6.0\SerialisationDemo.pdb
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\obj\Debug\net6.0\SerialisationDemo.csproj.AssemblyReference.cache
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\obj\Debug\net6.0\SerialisationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\obj\Debug\net6.0\SerialisationDemo.AssemblyInfoInputs.cache
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\obj\Debug\net6.0\SerialisationDemo.AssemblyInfo.cs
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\obj\Debug\net6.0\SerialisationDemo.csproj.CoreCompileInputs.cache
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\obj\Debug\net6.0\SerialisationDemo.dll
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\obj\Debug\net6.0\ref\SerialisationDemo.dll
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\obj\Debug\net6.0\SerialisationDemo.pdb
+C:\Users\sanjay\Desktop\.NET\FileIO\SerialisationDemo\obj\Debug\net6.0\SerialisationDemo.genruntimeconfig.cache
